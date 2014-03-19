@@ -33,6 +33,8 @@ namespace GestionEtudiants.Forms
                 if (a == DialogResult.Yes)
                 {
                     // TODO: Supprimer l'étudiant sélectionné
+                    int a = 1;
+                    int b = 2;
                 }
             }
         }
